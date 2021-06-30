@@ -6,7 +6,7 @@ The aim of this project will be to produce a compilation of questions and answer
 ### Organisation of the repository:
 <ul>
   <li>The file <b>CompiledQuestionsAndAnswers.docx</b> will contain all the questions and answers. The questions will be divided topic-wise and the contents section will help the user to jump to the relevant questions. This file is the starting point for a user.</li>
-  <li>The guide to the answer for each question will be given below the question. This answer might lead to a jupyter notebook, a stackoverflow question, a mdeium blog etc., which might be needed to explain the answer.</li>
+  <li>The guide to the answer for each question will be given below the question. This answer might lead to a jupyter notebook, a stackoverflow question, a blog etc., which might be needed to explain the answer.</li>
   <li>The .ipynb notebooks for these answers will be found in <b>/AnswersAndDemos.</b></li>
   </ul>
 
