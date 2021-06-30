@@ -1,5 +1,5 @@
 # Statistical Learning - From confusion to clarity
-## A compilation of insightful questions and answers in the journey of Statistical Learning.
+## A compilation of insightful questions and answers in the journey through Statistical Learning.
 
 The aim of this project will be to produce a compilation of questions and answers raised during the course of learning Statistical Learning (from ISLR by James, Witten, Hastie, Tibshirani). What sort of questions? Those that might not be covered in the book itself and hopefully will lead to some valuable insight into the inner workings of the statistical learning methods.
 
